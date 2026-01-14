@@ -1,2 +1,2 @@
 # first
-first time on the git
+first time on the git.
